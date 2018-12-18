@@ -1,0 +1,10 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    padding: 1em;
+}
+
+img{
+    max-width: '50px';
+    min-height: '100px';
+}
